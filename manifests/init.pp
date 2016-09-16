@@ -1,4 +1,4 @@
-class cache {
+class game_cache {
   group { 'nginx':
     ensure => present,
   }
